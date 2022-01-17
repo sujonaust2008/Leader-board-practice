@@ -14,7 +14,6 @@ header{
     align-items: center;
 }
 nav{
-    border: 1px solid red;
     width: 800px;
     padding: 10px 30px;
     display: flex;
